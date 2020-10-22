@@ -1,0 +1,11 @@
+touch .gitignore
+git init
+git add .
+git commit -m "Initial commit"
+git status
+git remote add origin <ssh copy link>
+<<key generate>>
+ssh-keygen -t rsa -b 4096 -C "shanjidahride1997@gmail.com"
+cat /c
+
+git push origin master
